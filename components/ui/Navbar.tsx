@@ -20,12 +20,12 @@ export const Navbar = () => {
       
       <Nav.Content variant="underline" gap={0} >      
         <Image 
-              src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+              src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${200}.png`}
               alt="icono de la app"
               width={90}
               height={90}
         />
-        <Nav.Link href="/">Pokedex</Nav.Link>
+        <Nav.Link href="/">Pokedex de Maria Victoria </Nav.Link>
         </Nav.Content>
         <Nav.Content>
           <Nav.Item>
