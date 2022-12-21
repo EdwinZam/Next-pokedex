@@ -25,7 +25,7 @@ export const Navbar = () => {
               width={90}
               height={90}
         />
-        <Nav.Link href="/">Pokedex de Maria Victoria </Nav.Link>
+        <Nav.Link href="/">Pokedex</Nav.Link>
         </Nav.Content>
         <Nav.Content>
           <Nav.Item>
